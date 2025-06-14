@@ -1,0 +1,20 @@
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\bin\Debug\Calcular el cambio según una compra.exe.config
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\bin\Debug\Calcular el cambio según una compra.exe
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\bin\Debug\Calcular el cambio según una compra.pdb
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular_el_cambio_según_una_compra.Form1.resources
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular_el_cambio_según_una_compra.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.exe
+C:\Users\Estudiante\Desktop\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\bin\Debug\Calcular el cambio según una compra.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\bin\Debug\Calcular el cambio según una compra.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\bin\Debug\Calcular el cambio según una compra.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular_el_cambio_según_una_compra.Form1.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular_el_cambio_según_una_compra.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Calcular el cambio según una compra\obj\Debug\Calcular el cambio según una compra.pdb
