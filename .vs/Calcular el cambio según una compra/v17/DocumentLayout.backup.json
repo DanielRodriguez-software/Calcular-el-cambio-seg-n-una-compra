@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF429EBE-F8C7-4C62-99D0-694A2B4985F4}|Calcular el cambio seg\u00FAn una compra.csproj|c:\\users\\mineducyt\\onedrive\\escritorio\\calcular el cambio seg\u00FAn una compra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF429EBE-F8C7-4C62-99D0-694A2B4985F4}|Calcular el cambio seg\u00FAn una compra.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF429EBE-F8C7-4C62-99D0-694A2B4985F4}|Calcular el cambio seg\u00FAn una compra.csproj|C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BF429EBE-F8C7-4C62-99D0-694A2B4985F4}|Calcular el cambio seg\u00FAn una compra.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF429EBE-F8C7-4C62-99D0-694A2B4985F4}|Calcular el cambio seg\u00FAn una compra.csproj|c:\\users\\mineducyt\\onedrive\\escritorio\\calcular el cambio seg\u00FAn una compra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF429EBE-F8C7-4C62-99D0-694A2B4985F4}|Calcular el cambio seg\u00FAn una compra.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowCUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T20:19:03.786Z",
@@ -35,14 +35,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\Calcular el cambio seg\u00FAn una compra\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T20:08:18.832Z"
+              "WhenOpened": "2025-06-13T20:08:18.832Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
